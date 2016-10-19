@@ -1,7 +1,7 @@
 #projeto
 =======
 
-projeto alpha
+projeto beta.
 
 
 - [x] Concluindo o Ranking

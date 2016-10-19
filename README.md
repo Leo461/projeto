@@ -1,7 +1,10 @@
 #projeto
 =======
 
-projeto de teste alpha Final
+
+
+projeto beta 2.
+
 
 
 - [x] Concluindo o Ranking
